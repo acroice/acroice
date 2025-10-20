@@ -48,7 +48,7 @@ My goal is to bridge the gap between business and data — turning messy dataset
 
 ## 📊 Visuals
 <p align="center">
-  <img src="assets/preview_forecast.png" width="12%" />
+  <img src="assets/preview_forecast.png" width="25%" />
 </p>
 
 ---

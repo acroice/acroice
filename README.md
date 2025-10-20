@@ -4,7 +4,7 @@
 </p> -->
 
 <!-- HEADER -->
-<h1 align="center">👋 Hey, I'm Damian</h1>
+<h1 align="center">Hey! I'm Damian</h1>
 <h3 align="center">Junior Data Scientist • Python • Machine Learning • Forecasting</h3>
 
 <p align="center">

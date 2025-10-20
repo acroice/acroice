@@ -1,7 +1,7 @@
 <!-- BANNER -->
-<p align="center">
+<!-- <p align="center">
   <img src="assets/banner_3x3.png" width="100%" alt="Banner Damian Cichocki 3x3">
-</p>
+</p> -->
 
 <!-- HEADER -->
 <h1 align="center">👋 Hey, I'm Damian</h1>

@@ -42,7 +42,7 @@ My goal is to bridge the gap between business and data — turning messy dataset
 |------------|----------------|----------|-----------|
 | **GPU Forecast Platform (MVP)** | Benchmarking CPU vs GPU performance for sales forecasting (M5 dataset). | Python, Pandas, XGBoost, RAPIDS | [Repo](#) · [Demo](#) |
 | **Retail EDA Starter** | Quick-start EDA and reporting template for retail/warehouse data. | Python, Pandas, Matplotlib | [Repo](#) |
-| **FPL333 Analytics** | Custom Fantasy Premier League analytics dashboard (private league). | Python, Streamlit, Requests | [Repo](#) · [Live](#) |
+| **FPL333 Analytics** | Custom Fantasy Premier League analytics dashboard (private league). | Python, Streamlit, Requests | [Repo]([#](https://github.com/acroice/fpl333)) · [Live]([#](https://fpl333.vercel.app/)) |
 
 ---
 

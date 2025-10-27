@@ -48,7 +48,11 @@ My goal is to bridge the gap between business and data — turning messy dataset
 
 ## 📊 Visuals
 <p align="center">
-  <img src="assets/preview_forecast.png" />
+  #### Exploratory Data Analysis (EDA)
+Visualizing demand seasonality and promo effects for retail data.
+
+![EDA](assets/plot_eda_weekly_demand.png)
+*Promo weeks (★) clearly correlate with demand spikes — used later for feature engineering.*
 </p>
 
 ---

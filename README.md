@@ -34,9 +34,9 @@ My work sits at the intersection of retail operations and applied AI — using d
   <img src="https://skillicons.dev/icons?i=python,gcp,git,github,linux,anaconda,postgresql,docker,swift" />
 </p>
 
-**Core:** Python · Pandas · NumPy · scikit-learn · SQL · Qlik Sense  
-**Learning:** XGBoost · Time Series · FastAPI · Streamlit · GitHub Actions  
-**Experimenting:** RAPIDS · cuDF · Optuna · Docker
+💡 **Core:** Python · Pandas · NumPy · scikit-learn · SQL · Qlik Sense  
+📚 **Currently Learning:** XGBoost · Time Series Forecasting · FastAPI · Streamlit · GitHub Actions  
+🚀 **Exploring Next:** RAPIDS (GPU Computing) · Optuna · Docker
 
 ---
 

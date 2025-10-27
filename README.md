@@ -27,7 +27,7 @@ My work sits at the intersection of retail operations and applied AI — using d
 🧠 Philosophy: “Less noise, more signal — data science that drives decisions.”  
 
 ---
-<img src="https://media.tenor.com/w33hdDzoSE0AAAAj/markiplier.gif"
+<img src="https://media.tenor.com/24473218/markiplier.gif"
      align="right"
      width="180"
      style="margin-left: 10px; margin-bottom: 10px;"/>

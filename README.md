@@ -48,16 +48,22 @@ My goal is to bridge the gap between business and data — turning messy dataset
 
 ## 📊 Visuals
 <p align="center">
-  #### Exploratory Data Analysis (EDA)
-Visualizing demand seasonality and promo effects for retail data.
+## 📊 Visuals
 
+I love exploring and visualizing data — from raw EDA to model explainability and forecasts.  
+Here are some selected visuals from my recent projects.
+
+### 🧠 EDA & Insights
 ![EDA](assets/plot_eda_weekly_demand.png)
-*Promo weeks (★) clearly correlate with demand spikes — used later for feature engineering.*
 
-#### Correlation Heatmap
-Pairwise feature correlation for model selection (Pandas + Seaborn).
+### ⚙️ Model Evaluation
+![Evaluation](assets/plot_model_eval.png)
 
-![Correlation Heatmap](assets/visual_corr_heatmap.png)
+### 🔮 Forecasting
+![Forecast](assets/plot_forecast_ci.png)
+
+### 🧱 System Design
+![Pipeline Diagram](assets/pipeline_diagram.png)
 
 </p>
 

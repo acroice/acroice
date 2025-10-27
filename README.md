@@ -4,8 +4,8 @@
 </p> -->
 
 <!-- HEADER -->
-<h1 align="center">Hey! I'm Damian</h1> 
 ![Haunter](https://media.tenor.com/w33hdDzoSE0AAAAj/haunter.gif)
+<h1 align="center">Hey! I'm Damian</h1> 
 <h3 align="center">Junior Data Scientist • Python • Machine Learning • Forecasting</h3>
 
 <p align="center">
@@ -26,7 +26,7 @@ My work sits at the intersection of retail operations and applied AI — using d
 🧠 Philosophy: “Less noise, more signal — data science that drives decisions.”  
 
 ---
-![Haunter](https://media.tenor.com/w33hdDzoSE0AAAAj/haunter.gif)
+
 
 ## ⚙️ Tech Stack
 <p align="center">

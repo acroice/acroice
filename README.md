@@ -79,7 +79,7 @@ Here are some selected visuals from my recent projects.
 ## 💬 Let's Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/damian-cichocki-3x3"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:hello@acroice.dev"><img src="https://img.shields.io/badge/-Email%20Me-0078D4?logo=gmail&logoColor=white" /></a>
+  <a href="damiancichocki@icloud.com"><img src="https://img.shields.io/badge/-Email%20Me-0078D4?logo=gmail&logoColor=white" /></a>
   <a href="https://acroice.github.io"><img src="https://img.shields.io/badge/-Portfolio-black?logo=githubpages&logoColor=white" /></a>
 </p>
 

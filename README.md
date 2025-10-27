@@ -80,12 +80,13 @@ Here are some selected visuals from my recent projects.
 <img src="assets/markiplier.gif" align="right" width="100" style="margin-left:10px; margin-bottom:10px;"/>
 
 ---
-## 📚 Currently Learning
-> balancing theory + small applied projects  
-- 🧮 *Feature engineering for time series* (lags, rolling windows, calendar features)  
-- 🔧 *Model deployment basics* – Streamlit & FastAPI  
-- 🧰 *Workflow automation* – CI/CD for small ML repos  
-- 📈 *Explaining models* – SHAP, feature importance, partial dependence  
+### 📚 Currently Learning
+Practical machine learning foundations through hands-on mini projects
+
+- 🧮 **Feature Engineering for Time Series:** lags, rolling stats, calendar patterns  
+- 🔧 **Model Deployment:** Streamlit dashboards & FastAPI endpoints  
+- 🧰 **Automation:** CI/CD and version control for reproducible ML repos  
+- 📈 **Interpretability:** SHAP, feature importance, partial dependence plots
 
 ---
 

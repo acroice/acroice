@@ -27,7 +27,7 @@ My work sits at the intersection of retail operations and applied AI — using d
 🧠 Philosophy: “Less noise, more signal — data science that drives decisions.”  
 
 ---
-<img src="assets/pokemon-kanto.gif" align="right" width="180"/>
+<img src="assets/pokemon-kanto.gif" align="left" width="180"/>
 
 ## ⚙️ Tech Stack
 <p align="center">

@@ -96,9 +96,9 @@ Practical machine learning foundations through hands-on mini projects
   <a href="damiancichocki@icloud.com"><img src="https://img.shields.io/badge/-Email%20Me-0078D4?logo=gmail&logoColor=white" /></a>
   <a href="https://acroice.github.io"><img src="https://img.shields.io/badge/-Portfolio-black?logo=githubpages&logoColor=white" /></a>
 </p>
-
----
 <img src="assets/skull-dungeon-nft.gif" align="right" width="100" style="margin-left:10px; margin-bottom:10px;"/>
+---
+
 ## 📈 GitHub Stats
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=acroice&show_icons=true&theme=transparent&hide_title=true" />

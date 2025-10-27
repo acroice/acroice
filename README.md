@@ -59,7 +59,7 @@ My work sits at the intersection of retail operations and applied AI — using d
 
 <img src="assets/pokemon-kanto.gif" align="right" width="140" style="margin-left:10px; margin-bottom:10px;"/>
 
-📊 Visuals
+<!-- 📊 Visuals -->
 <p align="center">
 I love exploring and visualizing data — from raw EDA to model explainability and forecasts.  
 Here are some selected visuals from my recent projects.

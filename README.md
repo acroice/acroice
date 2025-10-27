@@ -16,13 +16,13 @@
 ---
 
 ## 🧭 About me
-I’m a **Junior Data Scientist** combining 3 years of **BI & analytics** experience with a growing focus on **machine learning and forecasting**.  
-My goal is to bridge the gap between business and data — turning messy datasets into real, explainable insights.
+I’m a **Junior Data Scientist** with a strong foundation in business intelligence and a growing focus on machine learning for real-world forecasting and decision systems.
+My work sits at the intersection of retail operations and applied AI — using data to improve planning, efficiency, and business impact.
 
-- 🏢 **Currently:** Data Scientist @ Rossmann Polska  
-- 🔭 **Building:** GPU-accelerated demand forecasting platform (XGBoost / RAPIDS)  
-- 💡 **Interests:** forecasting, anomaly detection, retail analytics  
-- 🧩 **Mindset:** “Less fluff, more data — small projects that actually work.”
+🏢 Currently: Data Scientist @ Rossmann Polska
+⚙️ Building: GPU-accelerated forecasting platform (XGBoost / RAPIDS / FastAPI)
+💡 Focus: demand prediction, anomaly detection, model optimization
+🧠 Philosophy: “Less noise, more signal — data science that drives decisions.”
 
 ---
 

@@ -48,8 +48,6 @@ My goal is to bridge the gap between business and data — turning messy dataset
 
 ## 📊 Visuals
 <p align="center">
-## 📊 Visuals
-
 I love exploring and visualizing data — from raw EDA to model explainability and forecasts.  
 Here are some selected visuals from my recent projects.
 

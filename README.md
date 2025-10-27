@@ -19,7 +19,7 @@
 I’m a **Junior Data Scientist** with a strong foundation in business intelligence and a growing focus on machine learning for real-world forecasting and decision systems.
 My work sits at the intersection of retail operations and applied AI — using data to improve planning, efficiency, and business impact.
 
-🏢 Currently: Data Scientist @ Rossmann Polska
+🏢 Currently: Junior Data Scientist @ Rossmann Polska
 ⚙️ Building: GPU-accelerated forecasting platform (XGBoost / RAPIDS / FastAPI)
 💡 Focus: demand prediction, anomaly detection, model optimization
 🧠 Philosophy: “Less noise, more signal — data science that drives decisions.”
@@ -38,11 +38,19 @@ My work sits at the intersection of retail operations and applied AI — using d
 ---
 
 ## 🚀 Featured Projects
-| 🧠 Project | 🔍 Description | 🧰 Stack | 🔗 Links |
-|------------|----------------|----------|-----------|
-| **GPU Forecast Platform (MVP)** | Benchmarking CPU vs GPU performance for sales forecasting (M5 dataset). | Python, Pandas, XGBoost, RAPIDS | [Repo](#) · [Demo](#) |
-| **Retail EDA Starter** | Quick-start EDA and reporting template for retail/warehouse data. | Python, Pandas, Matplotlib | [Repo](#) |
-| **FPL333 Analytics** | Custom Fantasy Premier League analytics dashboard (private league). | Python, Streamlit, Requests | [Repo](https://github.com/acroice/fpl333) · [Live](https://fpl333.vercel.app/) |
+
+**GPU Forecast Platform (MVP)** — GPU-accelerated demand forecasting engine (XGBoost / RAPIDS).  
+→ Benchmarks CPU vs GPU performance, deploys forecasts via FastAPI.  
+🔗 [Repo](#) · [Demo](#)
+
+**Retail EDA Toolkit** — plug-and-play EDA framework for retail datasets.  
+→ Simplifies feature discovery, trend analysis, and KPI visualization.  
+🔗 [Repo](#)
+
+**FPL333 Analytics** — real-time Fantasy Premier League dashboard.  
+→ Tracks scores, transfers, and standings with automated updates.  
+🔗 [Repo](https://github.com/acroice/fpl333) · [Live](https://fpl333.vercel.app/)
+
 
 ---
 

@@ -53,7 +53,7 @@ My work sits at the intersection of retail operations and applied AI — using d
 **FPL333 Analytics** — real-time Fantasy Premier League dashboard.  
 → Tracks scores, transfers, and standings with automated updates.  
 🔗 [Repo](https://github.com/acroice/fpl333) · [Live](https://fpl333.vercel.app/)
-<img src="assets/markiplier.gif" align="right" width="180" style="margin-left:10px; margin-bottom:10px;"/>
+<img src="assets/skull-dungeon-nft" align="right" width="180" style="margin-left:10px; margin-bottom:10px;"/>
 
 ---
 

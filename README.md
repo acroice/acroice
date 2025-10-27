@@ -4,7 +4,8 @@
 </p> -->
 
 <!-- HEADER -->
-![Haunter](https://media.tenor.com/w33hdDzoSE0AAAAj/haunter.gif)
+<img src="https://media.tenor.com/w33hdDzoSE0AAAAj/haunter.gif" align="right" width="180"/>
+
 <h1 align="center">Hey! I'm Damian</h1> 
 <h3 align="center">Junior Data Scientist • Python • Machine Learning • Forecasting</h3>
 

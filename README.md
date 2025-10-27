@@ -25,7 +25,7 @@ My work sits at the intersection of retail operations and applied AI — using d
 🧠 Philosophy: “Less noise, more signal — data science that drives decisions.”  
 
 ---
-<div class="tenor-gif-embed" data-postid="26202758" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/haunter-gif-26202758">Haunter Sticker</a>from <a href="https://tenor.com/search/haunter-stickers">Haunter Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![Haunter](https://media.tenor.com/w33hdDzoSE0AAAAj/haunter.gif)
 
 ## ⚙️ Tech Stack
 <p align="center">

@@ -76,8 +76,9 @@ Here are some selected visuals from my recent projects.
 
 </p>
 
----
 <img src="assets/markiplier.gif" align="right" width="100" style="margin-left:10px; margin-bottom:10px;"/>
+
+---
 ## 📚 Currently Learning
 > balancing theory + small applied projects  
 - 🧮 *Feature engineering for time series* (lags, rolling windows, calendar features)  
@@ -95,13 +96,12 @@ Here are some selected visuals from my recent projects.
 </p>
 
 ---
-
+<img src="assets/skull-dungeon-nft.gif" align="right" width="100" style="margin-left:10px; margin-bottom:10px;"/>
 ## 📈 GitHub Stats
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=acroice&show_icons=true&theme=transparent&hide_title=true" />
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=acroice&theme=transparent&hide_border=true" />
 </p>
-<img src="assets/skull-dungeon-nft.gif" align="right" width="100" style="margin-left:10px; margin-bottom:10px;"/>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=acroice&theme=transparent" />
 </p>

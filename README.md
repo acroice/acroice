@@ -97,6 +97,7 @@ Practical machine learning foundations through hands-on mini projects
   <a href="https://acroice.github.io"><img src="https://img.shields.io/badge/-Portfolio-black?logo=githubpages&logoColor=white" /></a>
 </p>
 <img src="assets/skull-dungeon-nft.gif" align="right" width="100" style="margin-left:10px; margin-bottom:10px;"/>
+
 ---
 
 ## 📈 GitHub Stats

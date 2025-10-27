@@ -63,6 +63,7 @@ I love exploring and visualizing data — from raw EDA to model explainability a
 Here are some selected visuals from my recent projects.
 
 ### 🧠 EDA & Insights
+<img src="assets/pokemon-kanto.gif" align="right" width="180" style="margin-left:10px; margin-bottom:10px;"/>
 ![EDA](assets/plot_eda_weekly_demand.png)
 
 ### ⚙️ Model Evaluation

@@ -27,7 +27,7 @@ My work sits at the intersection of retail operations and applied AI — using d
 🧠 Philosophy: “Less noise, more signal — data science that drives decisions.”  
 
 ---
-<img src="assets/skull-dungeon-nft.gif" align="right" width="110" style="margin-left:10px; margin-bottom:10px;"/>
+<img src="assets/skull-dungeon-nft.gif" align="right" width="90" style="margin-left:10px; margin-bottom:10px;"/>
 
 ## ⚙️ Tech Stack
 <p align="center">

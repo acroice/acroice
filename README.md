@@ -25,7 +25,7 @@ My work sits at the intersection of retail operations and applied AI — using d
 🧠 Philosophy: “Less noise, more signal — data science that drives decisions.”  
 
 ---
-
+![DataScienceGif]([https://url_do_gifa.gif](https://tenor.com/view/haunter-gif-26202758))
 ## ⚙️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,git,github,linux,anaconda,sqlite,docker,figma" />

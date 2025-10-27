@@ -27,7 +27,7 @@ My work sits at the intersection of retail operations and applied AI — using d
 🧠 Philosophy: “Less noise, more signal — data science that drives decisions.”  
 
 ---
-<img src="assets/hypno.gif" align="right" width="180" style="margin-left:10px; margin-bottom:10px;"/>
+<img src="assets/pokemon-kanto.gif" align="right" width="180" style="margin-left:10px; margin-bottom:10px;"/>
 
 ## ⚙️ Tech Stack
 <p align="center">
@@ -56,11 +56,7 @@ My work sits at the intersection of retail operations and applied AI — using d
 
 
 ---
-<img src="https://media.tenor.com/JzLx3t4FZAkAAAAC/majin-vegeta.gif"
-     align="right"
-     width="150"
-     style="margin-left: 10px; margin-bottom: 10px;"/>
-     
+
 ## 📊 Visuals
 <p align="center">
 I love exploring and visualizing data — from raw EDA to model explainability and forecasts.  

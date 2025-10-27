@@ -53,6 +53,12 @@ Visualizing demand seasonality and promo effects for retail data.
 
 ![EDA](assets/plot_eda_weekly_demand.png)
 *Promo weeks (★) clearly correlate with demand spikes — used later for feature engineering.*
+
+#### Correlation Heatmap
+Pairwise feature correlation for model selection (Pandas + Seaborn).
+
+![Correlation Heatmap](assets/visual_corr_heatmap.png)
+
 </p>
 
 ---

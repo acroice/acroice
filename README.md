@@ -20,11 +20,6 @@
 ## 🧭 About me
 I’m a **Junior Data Scientist** with a strong foundation in business intelligence and a growing focus on machine learning for real-world forecasting and decision systems.
 My work sits at the intersection of retail operations and applied AI — using data to improve planning, efficiency, and business impact.
-
-<img src="https://media.tenor.com/JzLx3t4FZAkAAAAC/majin-vegeta.gif"
-     align="right"
-     width="150"
-     style="margin-left: 10px; margin-bottom: 10px;"/>
      
 🏢 Currently: Junior Data Scientist @ Rossmann Polska  
 ⚙️ Building: GPU-accelerated forecasting platform (XGBoost / RAPIDS / FastAPI)  
@@ -61,7 +56,11 @@ My work sits at the intersection of retail operations and applied AI — using d
 
 
 ---
-
+<img src="https://media.tenor.com/JzLx3t4FZAkAAAAC/majin-vegeta.gif"
+     align="right"
+     width="150"
+     style="margin-left: 10px; margin-bottom: 10px;"/>
+     
 ## 📊 Visuals
 <p align="center">
 I love exploring and visualizing data — from raw EDA to model explainability and forecasts.  

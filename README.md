@@ -31,7 +31,7 @@ My work sits at the intersection of retail operations and applied AI — using d
 
 ## ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,git,github,linux,anaconda,PostgreSQL,docker,figma" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,git,github,linux,anaconda,postgresql,docker,figma" />
 </p>
 
 **Core:** Python · Pandas · NumPy · scikit-learn · SQL · Qlik Sense  

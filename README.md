@@ -84,7 +84,7 @@ Here are some selected visuals from my recent projects.
 - 🔧 *Model deployment basics* – Streamlit & FastAPI  
 - 🧰 *Workflow automation* – CI/CD for small ML repos  
 - 📈 *Explaining models* – SHAP, feature importance, partial dependence  
-
+<img src="assets/skull-dungeon-nft.gif" align="right" width="120" style="margin-left:10px; margin-bottom:10px;"/>
 ---
 
 ## 💬 Let's Connect

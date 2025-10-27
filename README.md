@@ -77,7 +77,7 @@ Here are some selected visuals from my recent projects.
 
 </p>
 
-<img src="assets/markiplier.gif" align="right" width="100" style="margin-left:10px; margin-bottom:10px;"/>
+<img src="assets/markiplier.gif" align="right" width="130" style="margin-left:10px; margin-bottom:10px;"/>
 
 ---
 ### 📚 Currently Learning

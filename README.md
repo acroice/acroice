@@ -22,10 +22,10 @@ I’m a **Junior Data Scientist** with a strong foundation in business intellige
 My work sits at the intersection of retail operations and applied AI — using data to improve planning, efficiency, and business impact.
      
 🏢 Currently: Junior Data Scientist @ Rossmann Polska  
-⚙️ Working on: forecasting & analytics pipelines (Python · Pandas · scikit-learn · Qlik Sense)
-💡 Focus: data quality, feature engineering & machine learning foundations
-🚀 Currently deepening: Git workflow & ML pipeline automation
-🧠 Philosophy: “Less noise, more signal — data science that drives decisions.”
+⚙️ Working on: forecasting & analytics pipelines (Python · Pandas · scikit-learn · Qlik Sense)  
+💡 Focus: data quality, feature engineering & machine learning foundations  
+🚀 Currently deepening: Git workflow & ML pipeline automation  
+🧠 Philosophy: “Less noise, more signal — data science that drives decisions.”  
 
 ---
 <!-- <img src="assets/skull-dungeon-nft.gif" align="right" width="95" style="margin-left:10px; margin-bottom:10px;"/> -->

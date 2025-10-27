@@ -25,10 +25,9 @@ My work sits at the intersection of retail operations and applied AI — using d
 ⚙️ Building: GPU-accelerated forecasting platform (XGBoost / RAPIDS / FastAPI)  
 💡 Focus: demand prediction, anomaly detection, model optimization  
 🧠 Philosophy: “Less noise, more signal — data science that drives decisions.”  
-<img src="https://media.tenor.com/ZrT1Af5v_tkAAAAC/markiplier.gif" align="right" width="180"/>
 
 ---
-
+<img src="https://media.tenor.com/ZrT1Af5v_tkAAAAC/markiplier.gif" align="right" width="180" style="margin-left: 10px; margin-bottom: 10px;"/>
 
 ## ⚙️ Tech Stack
 <p align="center">

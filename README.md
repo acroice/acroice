@@ -57,7 +57,7 @@ My work sits at the intersection of retail operations and applied AI — using d
 
 ---
 
-<img src="assets/pokemon-kanto.gif" align="right" width="150" style="margin-left:10px; margin-bottom:10px;"/>
+<img src="assets/pokemon-kanto.gif" align="right" width="145" style="margin-left:10px; margin-bottom:10px;"/>
 
 <!-- 📊 Visuals -->
 <p align="center">

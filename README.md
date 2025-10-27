@@ -4,7 +4,7 @@
 </p> -->
 
 <!-- HEADER -->
-<img src="https://media.tenor.com/w33hdDzoSE0AAAAj/haunter.gif" align="right" width="180"/>
+<img src="https://media.tenor.com/w33hdDzoSE0AAAAj/haunter.gif" align="right" width="160"/>
 
 <h1 align="center">Hey! I'm Damian</h1> 
 <h3 align="center">Junior Data Scientist • Python • Machine Learning • Forecasting</h3>
@@ -53,7 +53,7 @@ My work sits at the intersection of retail operations and applied AI — using d
 **FPL333 Analytics** — real-time Fantasy Premier League dashboard.  
 → Tracks scores, transfers, and standings with automated updates.  
 🔗 [Repo](https://github.com/acroice/fpl333) · [Live](https://fpl333.vercel.app/)
-<img src="assets/pokemon-kanto.gif" align="right" width="180" style="margin-left:10px; margin-bottom:10px;"/>
+<img src="assets/pokemon-kanto.gif" align="right" width="140" style="margin-left:10px; margin-bottom:10px;"/>
 
 ---
 

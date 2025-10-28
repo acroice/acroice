@@ -106,7 +106,5 @@ Practical machine learning foundations through hands-on mini projects
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=acroice&show_icons=true&theme=transparent&hide_title=true" />
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=acroice&theme=transparent&hide_border=true" />
-</p>
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=acroice&theme=transparent" />
 </p>

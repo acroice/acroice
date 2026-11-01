@@ -7,7 +7,7 @@
 <img src="assets/haunter.gif" align="right" width="160" />
 
 <h1 align="center">Hey! I'm Damian</h1> 
-<h3 align="center">Junior Data Scientist • Python • Machine Learning • Forecasting</h3>
+<h3 align="center">Data Scientist • Python • Machine Learning • Forecasting</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/damian-cichocki-3x3"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white" /></a>
@@ -18,13 +18,13 @@
 ---
 
 ## 🧭 About me
-I’m a **Junior Data Scientist** with a strong foundation in business intelligence and a growing focus on machine learning for real-world forecasting and decision systems.
-My work sits at the intersection of retail operations and applied AI — using data to improve planning, efficiency, and business impact.
+I’m a **Data Scientist** with a background in Business Intelligence, focused on forecasting and applied machine learning.
+I’m interested in applying this analytical foundation to financial services, where data quality, sound validation and interpretable results matter for decision-making.
      
-🏢 Currently: Junior Data Scientist @ Rossmann Polska  
+🔎 Approach: from business questions and data checks to features, validation and useful predictions  
 ⚙️ Working on: forecasting & analytics pipelines (Python · Pandas · scikit-learn · Qlik Sense)  
-💡 Focus: data quality, feature engineering & machine learning foundations  
-🚀 Currently deepening: Git workflow & ML pipeline automation  
+💡 Focus: data quality, feature engineering & reproducible analysis  
+🚀 Currently deepening: chronological validation, error analysis & ML workflows on Google Cloud  
 🧠 Philosophy: “Less noise, more signal — data science that drives decisions.”  
 
 ---
@@ -37,22 +37,21 @@ My work sits at the intersection of retail operations and applied AI — using d
 
 💡 **Core:** Python · Pandas · NumPy · scikit-learn · SQL · Qlik Sense  
 📚 **Currently Learning:** XGBoost · Time Series Forecasting · FastAPI · Streamlit · GitHub Actions  
-🚀 **Exploring Next:** RAPIDS (GPU Computing) · Optuna · Docker
+🚀 **Exploring Next:** Vertex AI · experiment tracking · ML pipeline automation
 
 ---
 
 ## 🚀 Featured Projects
 
-**GPU Forecast Platform (MVP)** — GPU-accelerated demand forecasting engine (XGBoost / RAPIDS).  
-→ Benchmarks CPU vs GPU performance, deploys forecasts via FastAPI.  
-🔗 [Repo](#) · [Demo](#)
+**GPU Forecast Platform — concept**  
+→ An exploration direction for demand forecasting and CPU/GPU comparisons; no published implementation linked yet.
 
-**Retail EDA Toolkit** — plug-and-play EDA framework for retail datasets.  
-→ Simplifies feature discovery, trend analysis, and KPI visualization.  
-🔗 [Repo](#)
+**Retail EDA Toolkit — concept**  
+→ An exploration direction for data quality checks, trends and retail KPIs; no published implementation linked yet.
 
-**FPL333 Analytics** — real-time Fantasy Premier League dashboard.  
-→ Tracks scores, transfers, and standings with automated updates.  
+**FPL333 Analytics** — a working Fantasy Premier League dashboard (Next.js / TypeScript).  
+→ Python → BigQuery ingestion automated with Cloud Functions and Cloud Scheduler; RAW → STAGING → FEATURES with manual feature builds.  
+→ Next: baseline, chronological validation, player-points modelling and error analysis; Vertex AI is planned, not deployed.  
 🔗 [Repo](https://github.com/acroice/fpl333) · [Live](https://fpl333.vercel.app/)
 
 ---
@@ -62,7 +61,7 @@ My work sits at the intersection of retail operations and applied AI — using d
 <!-- 📊 Visuals -->
 <p align="center">
 I love exploring and visualizing data — from raw EDA to model explainability and forecasts.  
-Here are some selected visuals from my recent projects.
+The visuals below illustrate these topics; their data sources and metrics are not documented here, so they should not be read as verified project results.
   
 ### 🧠 EDA & Insights
 ![EDA](assets/plot_eda_weekly_demand.png)
@@ -85,7 +84,7 @@ Here are some selected visuals from my recent projects.
 Practical machine learning foundations through hands-on mini projects
 
 - 🧮 **Feature Engineering for Time Series:** lags, rolling stats, calendar patterns  
-- 🔧 **Model Deployment:** Streamlit dashboards & FastAPI endpoints  
+- 🔧 **Model Validation:** chronological splits, baseline comparisons & error analysis  
 - 🧰 **Automation:** CI/CD and version control for reproducible ML repos  
 - 📈 **Interpretability:** SHAP, feature importance, partial dependence plots
 
@@ -94,7 +93,7 @@ Practical machine learning foundations through hands-on mini projects
 ## 💬 Let's Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/damian-cichocki-3x3"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="damiancichocki@icloud.com"><img src="https://img.shields.io/badge/-Email%20Me-0078D4?logo=gmail&logoColor=white" /></a>
+  <a href="mailto:damiancichocki@icloud.com"><img src="https://img.shields.io/badge/-Email%20Me-0078D4?logo=gmail&logoColor=white" /></a>
   <a href="https://acroice.github.io"><img src="https://img.shields.io/badge/-Portfolio-black?logo=githubpages&logoColor=white" /></a>
 </p>
 

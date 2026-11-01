@@ -12,47 +12,42 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/damian-cichocki-3x3"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white" /></a>
   <a href="https://acroice.github.io"><img src="https://img.shields.io/badge/-Portfolio-0B3B8C?logo=githubpages&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Focus-Forecasting%20%7C%20BI%E2%86%92ML%20%7C%20EDA-1f6feb" />
+  <img src="https://img.shields.io/badge/Focus-Forecasting%20%C2%B7%20SQL%20%C2%B7%20Validation-1f6feb" />
 </p>
 
 ---
 
 ## 🧭 About me
 I’m a **Data Scientist** with a background in Business Intelligence, focused on forecasting and applied machine learning.
-I’m interested in applying this analytical foundation to financial services, where data quality, sound validation and interpretable results matter for decision-making.
+I’m interested in applying this foundation in financial services, where data quality, reproducible validation and interpretable results matter for decisions.
      
 🔎 Approach: from business questions and data checks to features, validation and useful predictions  
-⚙️ Working on: forecasting & analytics pipelines (Python · Pandas · scikit-learn · Qlik Sense)  
+⚙️ Working on: forecasting & analytics pipelines (Python · Pandas · SQL · scikit-learn · Qlik Sense)  
 💡 Focus: data quality, feature engineering & reproducible analysis  
 🚀 Currently deepening: chronological validation, error analysis & ML workflows on Google Cloud  
 🧠 Philosophy: “Less noise, more signal — data science that drives decisions.”  
 
 ---
-<!-- <img src="assets/skull-dungeon-nft.gif" align="right" width="95" style="margin-left:10px; margin-bottom:10px;"/> -->
 
 ## ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,gcp,git,github,linux,anaconda,postgresql,docker,swift" />
+  <img src="https://skillicons.dev/icons?i=python,gcp,git,github,linux,postgresql,docker" />
 </p>
 
-💡 **Core:** Python · Pandas · NumPy · scikit-learn · SQL · Qlik Sense  
-📚 **Currently Learning:** XGBoost · Time Series Forecasting · FastAPI · Streamlit · GitHub Actions  
+💡 **Core:** Python · Pandas · NumPy · scikit-learn · SQL · GCP / BigQuery · Qlik Sense · Git  
+📚 **Currently Learning:** XGBoost · time-series forecasting · model documentation · GitHub Actions  
 🚀 **Exploring Next:** Vertex AI · experiment tracking · ML pipeline automation
 
 ---
 
 ## 🚀 Featured Projects
 
-**GPU Forecast Platform — concept**  
-→ An exploration direction for demand forecasting and CPU/GPU comparisons; no published implementation linked yet.
-
-**Retail EDA Toolkit — concept**  
-→ An exploration direction for data quality checks, trends and retail KPIs; no published implementation linked yet.
-
 **FPL333 Analytics** — a working Fantasy Premier League dashboard (Next.js / TypeScript).  
-→ Python → BigQuery ingestion automated with Cloud Functions and Cloud Scheduler; RAW → STAGING → FEATURES with manual feature builds.  
+→ Scheduled Python → BigQuery ingestion (Cloud Functions + Cloud Scheduler); warehouse layers RAW → STAGING → FEATURES, with manual feature builds.  
 → Next: baseline, chronological validation, player-points modelling and error analysis; Vertex AI is planned, not deployed.  
 🔗 [Repo](https://github.com/acroice/fpl333) · [Live](https://fpl333.vercel.app/)
+
+*Exploring next:* demand-forecasting / CPU–GPU comparison, and a retail data-quality & KPI toolkit — concepts only, no published repos yet.
 
 ---
 
@@ -63,21 +58,13 @@ I’m interested in applying this analytical foundation to financial services, w
 I love exploring and visualizing data — from raw EDA to model explainability and forecasts.  
 The visuals below illustrate these topics; their data sources and metrics are not documented here, so they should not be read as verified project results.
   
-### 🧠 EDA & Insights
-![EDA](assets/plot_eda_weekly_demand.png)
-
 ### ⚙️ Model Evaluation
 ![Evaluation](assets/plot_model_eval.png)
-
-### 🔮 Forecasting
-![Forecast](assets/plot_forecast_ci.png)
 
 ### 🧱 System Design
 ![Pipeline Diagram](assets/pipeline_diagram.png)
 
 </p>
-
-<img src="assets/markiplier.gif" align="right" width="120" style="margin-left:10px; margin-bottom:10px;"/>
 
 ---
 ### 📚 Currently Learning
@@ -97,11 +84,9 @@ Practical machine learning foundations through hands-on mini projects
   <a href="https://acroice.github.io"><img src="https://img.shields.io/badge/-Portfolio-black?logo=githubpages&logoColor=white" /></a>
 </p>
 
-<img src="assets/skull-dungeon-nft.gif" align="right" width="100" style="margin-left:10px; margin-bottom:10px;"/>
-
 ---
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=acroice&theme=transparent" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=acroice&theme=default" />
 </p>

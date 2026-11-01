@@ -1,108 +1,63 @@
-<!-- BANNER -->
-<!-- <p align="center">
-  <img src="assets/banner_3x3.png" width="100%" alt="Banner Damian Cichocki 3x3">
-</p> -->
+<img src="assets/profile/header.svg" alt="Damian / acroice — Data Scientist. Forecasting and applied machine learning." width="100%">
 
-<!-- HEADER -->
-<img src="assets/haunter.gif" align="right" width="160" />
+I'm Damian, a **Data Scientist with a background in Business Intelligence**. I focus on forecasting and applied machine learning: understanding the question, checking the data, and turning model outputs into useful predictions.
 
-<h1 align="center">Hey! I'm Damian</h1> 
-<h3 align="center">Junior Data Scientist • Python • Machine Learning • Forecasting</h3>
+[FPL333 demo](https://fpl333.vercel.app) · [Project code](https://github.com/acroice/fpl333) · [LinkedIn](https://www.linkedin.com/in/damian-cichocki-3x3) · [Email](mailto:damiancichocki@icloud.com)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/damian-cichocki-3x3"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white" /></a>
-  <a href="https://acroice.github.io"><img src="https://img.shields.io/badge/-Portfolio-0B3B8C?logo=githubpages&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Focus-Forecasting%20%7C%20BI%E2%86%92ML%20%7C%20EDA-1f6feb" />
-</p>
+## FPL333 — from league data to player predictions
 
----
+**How can historical player performance and fixture context support predictions for the next gameweek?** FPL333 is my ongoing project for exploring that question, alongside a working Fantasy Premier League dashboard.
 
-## 🧭 About me
-I’m a **Junior Data Scientist** with a strong foundation in business intelligence and a growing focus on machine learning for real-world forecasting and decision systems.
-My work sits at the intersection of retail operations and applied AI — using data to improve planning, efficiency, and business impact.
-     
-🏢 Currently: Junior Data Scientist @ Rossmann Polska  
-⚙️ Working on: forecasting & analytics pipelines (Python · Pandas · scikit-learn · Qlik Sense)  
-💡 Focus: data quality, feature engineering & machine learning foundations  
-🚀 Currently deepening: Git workflow & ML pipeline automation  
-🧠 Philosophy: “Less noise, more signal — data science that drives decisions.”  
+### Built
 
----
-<!-- <img src="assets/skull-dungeon-nft.gif" align="right" width="95" style="margin-left:10px; margin-bottom:10px;"/> -->
+- **League dashboard:** a live Next.js / TypeScript application for exploring league results.
+- **Data ingestion:** Python → Google BigQuery, automated with Cloud Functions and Cloud Scheduler.
+- **Data preparation:** RAW → STAGING → FEATURES, including a player–gameweek feature table. Feature builds are currently triggered manually.
 
-## ⚙️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,gcp,git,github,linux,anaconda,postgresql,docker,swift" />
-</p>
+One concrete modelling concern is **what was known before the gameweek deadline**. The pipeline uses prior-gameweek history for lagged features and pre-deadline snapshots for price and form; missing historical snapshots stay missing rather than being filled with today's values. [Read the pipeline documentation](https://github.com/acroice/fpl333/blob/main/pipeline/README.md).
 
-💡 **Core:** Python · Pandas · NumPy · scikit-learn · SQL · Qlik Sense  
-📚 **Currently Learning:** XGBoost · Time Series Forecasting · FastAPI · Streamlit · GitHub Actions  
-🚀 **Exploring Next:** RAPIDS (GPU Computing) · Optuna · Docker
+<img src="assets/profile/architecture.svg" alt="Built: scheduled Python ingestion into BigQuery RAW, then manually triggered STAGING and FEATURES builds. The Next.js dashboard is a separate working application. Planned: baseline, chronological validation, points model, error analysis and Vertex AI." width="100%">
 
----
+### Next
 
-## 🚀 Featured Projects
+Establish a baseline, validate chronologically, then develop a player-points model and analyse its errors. Vertex AI is a planned step for managing ML experiments and training. **The predictive model and Vertex AI integration are not deployed.**
 
-**GPU Forecast Platform (MVP)** — GPU-accelerated demand forecasting engine (XGBoost / RAPIDS).  
-→ Benchmarks CPU vs GPU performance, deploys forecasts via FastAPI.  
-🔗 [Repo](#) · [Demo](#)
+[Explore the repository](https://github.com/acroice/fpl333) · [Open the dashboard](https://fpl333.vercel.app) · [Development roadmap](https://github.com/acroice/fpl333/blob/main/ROADMAP.md)
 
-**Retail EDA Toolkit** — plug-and-play EDA framework for retail datasets.  
-→ Simplifies feature discovery, trend analysis, and KPI visualization.  
-🔗 [Repo](#)
+## Analytical approach
 
-**FPL333 Analytics** — real-time Fantasy Premier League dashboard.  
-→ Tracks scores, transfers, and standings with automated updates.  
-🔗 [Repo](https://github.com/acroice/fpl333) · [Live](https://fpl333.vercel.app/)
+The visuals below illustrate the questions I want an analysis to answer. **They are methodological illustrations, not FPL333 results or evidence of a trained model.** The EDA and forecasting examples use synthetic data; the validation diagram explains the evaluation design.
 
----
+### 01 / Explore the data before fitting a model
 
-<img src="assets/pokemon-kanto.gif" align="right" width="145" style="margin-left:10px; margin-bottom:10px;"/>
+<img src="assets/profile/eda.svg" alt="Synthetic weekly observations with a missing week and a marked spike; the line breaks at the missing observation." width="100%">
 
-<!-- 📊 Visuals -->
-<p align="center">
-I love exploring and visualizing data — from raw EDA to model explainability and forecasts.  
-Here are some selected visuals from my recent projects.
-  
-### 🧠 EDA & Insights
-![EDA](assets/plot_eda_weekly_demand.png)
+**Reading the example:** the gap is not a zero, and the spike needs investigation before it becomes a modelling assumption. Check completeness, unusual observations and the time at which each input becomes available.
 
-### ⚙️ Model Evaluation
-![Evaluation](assets/plot_model_eval.png)
+### 02 / Evaluate in the order predictions will be made
 
-### 🔮 Forecasting
-![Forecast](assets/plot_forecast_ci.png)
+<img src="assets/profile/validation.svg" alt="Expanding-window validation: each training window precedes its validation block, followed by a separate final holdout." width="100%">
 
-### 🧱 System Design
-![Pipeline Diagram](assets/pipeline_diagram.png)
+**Evaluation design:** compare against a simple baseline on future gameweeks. Fit preprocessing within each training fold, inspect errors across relevant player groups, and reserve a final holdout for the selected approach. This is the planned evaluation workflow for FPL333.
 
-</p>
+### 03 / Make the prediction horizon explicit
 
-<img src="assets/markiplier.gif" align="right" width="120" style="margin-left:10px; margin-bottom:10px;"/>
+<img src="assets/profile/forecast.svg" alt="Synthetic weekly history followed by a dashed four-week baseline forecast that repeats the last four observations. No FPL predictions or uncertainty intervals are shown." width="100%">
 
----
-### 📚 Currently Learning
-Practical machine learning foundations through hands-on mini projects
+**Reading the example:** repeating the last four observations gives a transparent seasonal-naive benchmark. The four-week period is illustrative, not an assumption about FPL. Define the horizon and assess accuracy on unseen periods; if intervals are introduced, check their empirical coverage before presenting uncertainty to a user.
 
-- 🧮 **Feature Engineering for Time Series:** lags, rolling stats, calendar patterns  
-- 🔧 **Model Deployment:** Streamlit dashboards & FastAPI endpoints  
-- 🧰 **Automation:** CI/CD and version control for reproducible ML repos  
-- 📈 **Interpretability:** SHAP, feature importance, partial dependence plots
+<sub>[Visual sources and methodology](assets/profile/README.md) · Illustrations are reproducible with the included generator.</sub>
+
+## Toolkit & development
+
+**Analytical foundation:** Python, Pandas, NumPy and SQL for data preparation and exploration; scikit-learn for modelling workflows; Qlik Sense and BI experience for connecting analysis to business questions.
+
+**Applied in FPL333:** BigQuery for analytical data, Cloud Functions and Cloud Scheduler for ingestion, and Next.js / TypeScript for the dashboard.
+
+**Current development:** time-series feature engineering, baseline design, chronological validation and error analysis. Google Cloud, Vertex AI and MLOps support that Data Science direction.
 
 ---
 
-## 💬 Let's Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/damian-cichocki-3x3"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="damiancichocki@icloud.com"><img src="https://img.shields.io/badge/-Email%20Me-0078D4?logo=gmail&logoColor=white" /></a>
-  <a href="https://acroice.github.io"><img src="https://img.shields.io/badge/-Portfolio-black?logo=githubpages&logoColor=white" /></a>
-</p>
+**Let's connect:** [LinkedIn](https://www.linkedin.com/in/damian-cichocki-3x3) · [damiancichocki@icloud.com](mailto:damiancichocki@icloud.com)
 
-<img src="assets/skull-dungeon-nft.gif" align="right" width="100" style="margin-left:10px; margin-bottom:10px;"/>
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=acroice&theme=transparent" />
-</p>
+<sub>Outside the analysis: football, and a soft spot for Pokémon.</sub>

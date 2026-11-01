@@ -58,8 +58,14 @@ I’m interested in applying this foundation in financial services, where data q
 I love exploring and visualizing data — from raw EDA to model explainability and forecasts.  
 The visuals below illustrate these topics; their data sources and metrics are not documented here, so they should not be read as verified project results.
   
+### 🧠 EDA & Insights
+![EDA](assets/plot_eda_weekly_demand.png)
+
 ### ⚙️ Model Evaluation
 ![Evaluation](assets/plot_model_eval.png)
+
+### 🔮 Forecasting
+![Forecast](assets/plot_forecast_ci.png)
 
 ### 🧱 System Design
 ![Pipeline Diagram](assets/pipeline_diagram.png)
